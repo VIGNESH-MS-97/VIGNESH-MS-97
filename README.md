@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Vignesh
 
-<!--
-**VIGNESH-MS-97/VIGNESH-MS-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Microsoft Certified
+- ✅ Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+- ✅ Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 
-Here are some ideas to get you started:
+## About Me
+I am an IT professional with experience in cloud infrastructure, Active Directory, and Microsoft Entra ID administration. I enjoy building automation with PowerShell and Microsoft Graph to simplify identity and access management tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Microsoft Entra ID
+- Identity & Access Management (IAM)
+- Active Directory
+- Microsoft Graph API
+- PowerShell
+- Azure
+- Conditional Access
+- RBAC
+- PIM
+- MFA
+
+## Current Focus
+- Building Microsoft Entra ID automation projects
+- Learning Microsoft Graph API
+- PowerShell scripting for IAM
+- Azure Security
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/vignesh-ms-97-tech
